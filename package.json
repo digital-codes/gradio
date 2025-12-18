@@ -164,7 +164,7 @@
 		"@testing-library/user-event": "^14.6.1",
 		"chromatic": "^13.3.0",
 		"eslint-plugin-jsdoc": "^61.0.0",
-		"storybook": "^9.1.10",
+		"storybook": "^9.1.17",
 		"wikidata-lang": "5.0.1"
 	},
 	"engines": {
