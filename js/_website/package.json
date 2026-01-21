@@ -38,6 +38,6 @@
 		"mdsvex": "^0.12.6",
 		"postcss": "^8.5.6",
 		"prism-svelte": "^0.5.0",
-		"wrangler": "^4.42.1"
+		"wrangler": "^4.59.1"
 	}
 }
