@@ -33,7 +33,7 @@
 		"@gradio/tabs": "workspace:^",
 		"@gradio/button": "workspace:^",
 		"@sindresorhus/slugify": "^3.0.0",
-		"@sveltejs/adapter-vercel": "^5.10.3",
+		"@sveltejs/adapter-vercel": "^6.3.2",
 		"hast-util-to-string": "^3.0.1",
 		"mdsvex": "^0.12.6",
 		"postcss": "^8.5.6",
